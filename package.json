@@ -1,11 +1,11 @@
 {
   "name": "notion-alexa",
-  "type": "module",
+  "type": "commonjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@notionhq/client": "^0.1.9",
+    "@notionhq/client": "^0.3.1",
     "ask-sdk-core": "^2.11.0"
   }
 }
